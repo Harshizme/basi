@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
 int main(){
-    printf("Hello wl");
+    printf("Hello world");
     return 0;
 }
